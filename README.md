@@ -42,8 +42,7 @@ The forecast analysis predicts AkzoNobel's revenue for the next four quarters, b
 | Q3 2024     | 9387.44                           |
 
 ### **Visualization**
-![Forecast Analysis]
-![image](https://github.com/user-attachments/assets/624a9868-49dc-40ec-87c9-166fa3fdcbd6)
+![Forecast Analysis]![image](https://github.com/user-attachments/assets/624a9868-49dc-40ec-87c9-166fa3fdcbd6)
 
 
 ---
