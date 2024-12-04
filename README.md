@@ -25,7 +25,8 @@ This repository contains a Power BI dashboard analyzing AkzoNobel's corporate pe
 ---
 
 ## **Dashboard Overview**
-![Dashboard Screenshot](screenshots/akzonobel-dashboard.png)
+![Screenshot 2024-12-04 143247](https://github.com/user-attachments/assets/55d58711-9cb2-4cc1-97fd-bfab9d3681c2)
+
 
 ---
 
@@ -41,7 +42,9 @@ The forecast analysis predicts AkzoNobel's revenue for the next four quarters, b
 | Q3 2024     | 9387.44                           |
 
 ### **Visualization**
-![Forecast Analysis](screenshots/forecast-analysis.png)
+![Forecast Analysis]
+![image](https://github.com/user-attachments/assets/624a9868-49dc-40ec-87c9-166fa3fdcbd6)
+
 
 ---
 
